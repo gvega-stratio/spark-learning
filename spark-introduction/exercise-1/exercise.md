@@ -1,6 +1,6 @@
 # Spark RDD exercise
 
-## Complete the following tasks using only RDDs API
+### Complete the following tasks using only RDDs API
 
 1. Read the log file.  
 2. Obtain and print: total number of lines, chars and first few lines.  
@@ -10,6 +10,6 @@
 6. Show the date when the errors started and show the country.  
 7. Show the country with more errors and the amount detected.  
 
-## Repeat the same tasks using DataFrame/Dataset API
+### Repeat the same tasks using DataFrame/Dataset API
 
 ___You can submit your results via Pull Request___
